@@ -1,0 +1,5 @@
+{
+  "name": "Sonic Pixelator",
+  "description": "Convert audio files into shareable images and back again. Uses visual encoding to store audio data within pixels.",
+  "requestFramePermissions": []
+}
